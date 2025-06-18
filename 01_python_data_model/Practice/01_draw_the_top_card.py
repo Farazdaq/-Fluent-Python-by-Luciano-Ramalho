@@ -1,0 +1,2 @@
+#Write a function reverse_deck(deck) that returns a new list of cards in reverse order, using slicing or Python built-ins — without modifying the original deck.
+#Try reversed_cards = reverse_deck(deck) and print the last card in the deck.
